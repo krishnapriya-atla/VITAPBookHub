@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">VIT-AP BookHub</string>
+    <string name="dashboard">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="about_us">About Us</string>
+    <string name="profile">Profile</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="preference_file_name">BookHub Preferences</string>
+    <string name="csi_about_us">The <strong>Computer Society of India (CSI)</strong> Club at VIT-AP, began as one of the initial clubs and chapters at <strong>VIT-AP</strong>, that could provide students to work
+    on computer science subjects , but beyond the classroom level.The students/members are given the training and requirements to sharpen their roles in the field of technology</string>
+
+    <string name="Electronics">https://firebasestorage.googleapis.com/v0/b/vitap-bookhub-4f07c.appspot.com/o/Electronics</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="c_course"><![CDATA[C & C++]]></string>
+    <string name="feedback">FeedBack</string>
+    <string name="inc_sort">A to Z</string>
+    <string name="GmailId"><u>developer.vitapbookhub@gmail.com</u></string>
+    <string name="interview_questions">INTERVIEW QUESTIONS</string>
+    <string name="companies">Companies</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="no_favorites">you do not have any Favorite Books</string>
+    <string name="disclaimer"><u>Disclaimer :</u> Kindly Login with VITAP Mail Id for more Benifits</string>
+  <!--  <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstital_ad_id">ca-app-pub-1409740956000659/5313945860</string>
+    <string name="banner1adview">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner2adview">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner3adview">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner4adview">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner5adview">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner6adview">ca-app-pub-3940256099942544/6300978111</string>
+-->
+    <string name="admob_app_id">ca-app-pub-6555297486385984~6935198654</string>
+    <string name="interstital_ad_id">ca-app-pub-1409740956000659/5313945860</string>
+    <string name="banner1adview">ca-app-pub-6555297486385984/1679776624</string>
+    <string name="banner2adview">ca-app-pub-6555297486385984/8079386216</string>
+    <string name="banner3adview">ca-app-pub-6555297486385984/2140663827</string>
+    <string name="banner4adview">ca-app-pub-6555297486385984/3009950410</string>
+    <string name="banner5adview">ca-app-pub-6555297486385984/1505297050</string>
+    <string name="banner6adview">ca-app-pub-6555297486385984/5252970373</string>
+</resources>
